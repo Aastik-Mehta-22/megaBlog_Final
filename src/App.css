@@ -1,4 +1,4 @@
-/* #root {
+#root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,17 +39,16 @@
 
 .read-the-docs {
   color: #888;
-} */
+} 
 
-/* App.css */
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
   --tw-bg-opacity: 1;
   background-color: rgb(148 163 184 / var(--tw-bg-opacity));
-  /* background-color: grey; Light background for readability */
+   background-color: grey; Light background for readability 
 }
 
 .logo {
@@ -60,13 +59,14 @@
 
 .logo:hover {
   filter: drop-shadow(0 0 2em #1e90ff); /* Blue shadow on hover */
-}
+/* } */
 
-.navbar {
+/* .navbar {
   background-color: #1e90ff; /* Blue navbar */
-  padding: 1rem;
-}
+  /* padding: 1rem; */
+/* } */
 
+/*  
 .navbar ul li button {
   background-color: transparent;
   color: #fff;
@@ -76,7 +76,7 @@
 }
 
 .navbar ul li button:hover {
-  background-color: #4682b4; /* Slightly darker blue on hover */
+  background-color: #4682b4; 
 }
 
 main {
@@ -84,7 +84,7 @@ main {
 }
 
 footer {
-  background-color: #1e90ff; /* Blue footer */
+  background-color: #1e90ff; 
   padding: 2rem 0;
   color: white;
 }
@@ -114,5 +114,5 @@ footer a:hover {
 
   footer {
     text-align: center;
-  }
-}
+  } */
+/* } */ 
